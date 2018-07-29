@@ -12,5 +12,8 @@
 </head>
 <body>
 当前系统时间：${time}<br />
+<img src ="pic1.jpg"/>
+<img src ="../pic2.jpg"/>
+<img src ="./pic2.jpg"/>
 </body>
 </html>
